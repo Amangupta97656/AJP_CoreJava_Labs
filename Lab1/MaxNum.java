@@ -22,3 +22,14 @@ public class MaxNum {
     scanner.close();
   }
 }
+
+/*
+ * OUTPUT:
+ * Enter the first number: 10
+ * Enter the second number: 20
+ * The maximum of the two numbers is: 20
+ * 
+ * Enter the first number: 43
+ * Enter the second number: 65
+ * The maximum of the two numbers is: 65
+ */

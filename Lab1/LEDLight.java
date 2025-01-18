@@ -24,3 +24,11 @@ public class LEDLight {
     return String.format("%3s", Integer.toBinaryString(num)).replace(' ', '0');
   }
 }
+
+/*
+ * OUTPUT:
+ * Light 1 turned ON. Current state: 001
+ * Light 2 is OFF
+ * Light 3 turned OFF. Current state: 001
+ * Final state of lights (binary): 001
+ */
